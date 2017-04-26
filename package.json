@@ -1,0 +1,29 @@
+{
+  "name": "replace-object-content",
+  "version": "1.0.0",
+  "description": "mutates the source javascript object and replaces the contents with the passed js object",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/master-atul/replace-object-content.git"
+  },
+  "keywords": [
+    "mutate",
+    "replace",
+    "content",
+    "object",
+    "reference"
+  ],
+  "author": "Atul R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/master-atul/replace-object-content/issues"
+  },
+  "homepage": "https://github.com/master-atul/replace-object-content#readme",
+  "devDependencies": {
+    "jest": "^19.0.2"
+  }
+}
